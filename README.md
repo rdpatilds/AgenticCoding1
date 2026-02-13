@@ -1,6 +1,4 @@
-# Tactical Agentic Coding - Lesson: #1
-
-## AI Coding Prompt
+## AI Coding Prompt 1
 
 ```md
 CREATE main_aic.py:
